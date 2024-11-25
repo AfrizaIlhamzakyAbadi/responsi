@@ -22,6 +22,6 @@ int main()
 {
 	string a = "qwewq";
 	string b = "qwe";
-	cout << polindrome(a, 5) << polindrome (b, 3);
+	cout << "a: " << polindrome(a, 5) << '\n' << "b: " << polindrome(b, 3);
 	return 0;
 }
